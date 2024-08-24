@@ -8,7 +8,6 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.List;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 
 /**
  * InterfaceDesc

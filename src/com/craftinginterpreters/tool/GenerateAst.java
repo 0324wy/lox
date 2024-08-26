@@ -25,13 +25,21 @@ public class GenerateAst {
 //        }
 //        String outputDir = args[0];
 
-        String outputDi = "/Users/wangyan/softwareProjects/IdeaProjects/lox/src/com/craftinginterpreters/lox";
+        String outputDi = "/Users/wangyan/softwareProjects/javaProject/lox/src/com/craftinginterpreters/lox";
 
         defineAst(outputDi, "Expr", Arrays.asList(
+                "Assign: Token name, Expr value",
                 "Binary: Expr left, Token operator, Expr right",
                 "Grouping: Expr expression",
                 "Literal: Object value",
-                "Unary: Token operator, Expr right"
+                "Unary: Token operator, Expr right",
+                "Variable : Token name"
+        ));
+
+        defineAst(outputDi, "Stmt", Arrays.asList(
+                "Expression : Expr expression",
+                "Print      : Expr expression",
+                "Var        : Token name, Expr initializer"
         ));
     }
 

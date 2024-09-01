@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0242744-20e5-46d0-b18c-bf8b192730b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Environment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Grouping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Literal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Literal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Unary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr$Visitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Expr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Interpreter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Interpreter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Interpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Interpreter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Parser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Parser$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Parser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Expression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Var.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/lox/Stmt$Var.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/tool/GenerateAst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lox/com/craftinginterpreters/tool/GenerateAst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" afterDir="false" />
-    </list>
+    <list default="true" id="c0242744-20e5-46d0-b18c-bf8b192730b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +200,7 @@
       <workItem from="1724446632952" duration="6011000" />
       <workItem from="1724517110495" duration="9041000" />
       <workItem from="1724636060611" duration="3705000" />
-      <workItem from="1725057925061" duration="1254000" />
+      <workItem from="1725057925061" duration="2046000" />
     </task>
     <servers />
   </component>
